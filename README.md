@@ -28,11 +28,11 @@ A simple and responsive web app to search for GitHub users and view their profil
 <p align="center">
   <img src="assets/screenshot-home.png" alt="Home Screenshot" width="45%" />
   &nbsp;
-  <img src="assets/screenshot-profile.png" alt="Profile Screenshot" width="45%" />
+  <img src="assets/screenshot-error.png" alt="Error Screenshot" width="45%" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-error.png" alt="Error Screenshot" width="45%" />
+  <img src="assets/screenshot-profile.png" alt="Profile Screenshot" width="45%" />
 </p>
 
 ## ⚙ Installation & Setup
