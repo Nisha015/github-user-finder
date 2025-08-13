@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="GitHub User Finder Banner" width="100%" />
+</p>
+
 # GitHub User Finder
 
 A simple and responsive web app to search for GitHub users and view their profile details using the GitHub API.
@@ -20,8 +24,6 @@ A simple and responsive web app to search for GitHub users and view their profil
 - *GitHub REST API*
 
 ---
-
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
