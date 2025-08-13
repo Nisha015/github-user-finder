@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="GitHub User Finder Banner" width="100%" />
+  <img src="assets/banner.jpg" alt="GitHub User Finder Banner" width="60%" />
 </p>
 
 # GitHub User Finder
